@@ -1,28 +1,36 @@
-# Calculadora Simples em C#
+<div align="center">
 
-Projeto de console em C# que realiza operações matemáticas básicas: soma, subtração, multiplicação e divisão.
+# Calculadora em C#
 
----
+**C# · .NET · Console**
 
-## Descrição
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 
-Esta aplicação simples permite que o usuário insira dois números e escolha uma operação matemática para calcular o resultado. Ela suporta as operações básicas e possui tratamento de erros, como divisão por zero e entrada inválida.
-
-O projeto é ideal para iniciantes que querem praticar C# e .NET, trabalhando com leitura de entrada, estruturas condicionais, loops e tratamento de exceções.
-
----
-
-## Tecnologias Utilizadas
-
-- C# 11
-- .NET 8.0 (SDK e Runtime)
-- Console Application
+</div>
 
 ---
+
+Projeto de estudo em C# para praticar entrada de dados, controle de fluxo, validação e tratamento de erros.
 
 ## Funcionalidades
 
-- Realiza soma, subtração, multiplicação e divisão.
-- Valida entrada do usuário para números e operador.
-- Trata erro de divisão por zero.
-- Permite realizar várias operações em sequência até o usuário decidir sair.
+- soma;
+- subtração;
+- multiplicação;
+- divisão;
+- validação de entrada;
+- tratamento de divisão por zero;
+- execução contínua até o usuário encerrar.
+
+## Objetivo
+
+Este repositório registra uma etapa inicial de estudo em C#/.NET. Ele permanece público como parte da evolução técnica, mas não representa o nível atual dos projetos principais do perfil.
+
+---
+
+<div align="center">
+
+Projeto de estudo · Cledson Santos
+
+</div>
